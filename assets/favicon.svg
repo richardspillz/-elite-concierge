@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="256" fill="#1a1a1a"/>
+    
+    <!-- Elegant 'E' Letter -->
+    <path d="M 160 140
+             h 220
+             v 40
+             h -170
+             v 70
+             h 150
+             v 40
+             h -150
+             v 70
+             h 170
+             v 40
+             h -220
+             z" 
+          fill="#9a8a78"/>
+    
+    <!-- Decorative Lines -->
+    <path d="M 140 120
+             h 260
+             m -260 272
+             h 260"
+          stroke="#9a8a78"
+          stroke-width="4"
+          fill="none"/>
+</svg> 
